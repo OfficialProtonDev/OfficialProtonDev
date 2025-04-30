@@ -26,7 +26,7 @@ At the same time, I've been passionately self-learning many new concepts and too
 ### 🔭 Projects I’m working on:
 
 [![Solana](https://img.shields.io/badge/Solana-Media_Verification_System-45ABFF?logo=solana&logoColor=fff&labelColor=9945FF)](https://github.com/OfficialProtonDev/Media-Verifier) <br/>
-[![React](https://img.shields.io/badge/Next.js-AI_Coding_Interview_Simulation-45ABFF?logo=next.js&logoColor=white&labelColor=000000)](https://officialprotondev.github.io/under-construction/)
+[![React](https://img.shields.io/badge/Next.js-AI_Coding_Interview_Simulation-45ABFF?logo=next.js&logoColor=white&labelColor=000000)](https://devprep-aaoe.onrender.com/)
 
 ### 🌱 I’m learning:
 
