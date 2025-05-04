@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I've been programming for 10+ years, and am currently pursuing formal qualifications in Software Development (in my final year).<br/>
+I've been programming for 10+ years, and am currently pursuing formal qualifications in Software Development (in my final year).
 At the same time, I've been passionately self-learning many new concepts and tools every day to help me build amazing personal projects.
 
 **Current Project:**
