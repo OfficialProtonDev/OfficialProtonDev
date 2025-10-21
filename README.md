@@ -1,11 +1,11 @@
 ## Hi there 👋
 
-I've been programming for 10+ years, and am currently pursuing formal qualifications in Software Development.
+I've been programming for 10+ years, and am currently pursuing a degree in Computer Science.
 At the same time, I've been passionately self-learning many new concepts and tools every day to help me build amazing personal projects.
 
 **Current Project:**
 
-I am currently developing an AI-powered technical interview simulation  for developers to use to practice a wide range of skills necessary in a technical interview ([live demo](https://devprep-aaoe.onrender.com/)).
+I am currently solely responsible for the end-to-end development of a real-world project at Enform NZ, independently designing, implementing, and delivering a complete solution. Gaining hands-on experience in React + ASP.Net and applying advanced problem-solving skills in a professional environment.
 
 **I am well-versed in:**
 
