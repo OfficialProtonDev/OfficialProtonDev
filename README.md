@@ -5,14 +5,16 @@ At the same time, I've been passionately self-learning many new concepts and too
 
 **Current Project:**
 
-I am currently solely responsible for the end-to-end development of a real-world project at Enform NZ, independently designing, implementing, and delivering a complete solution. Gaining hands-on experience in React + ASP.Net and applying advanced problem-solving skills in a professional environment.
+I am currently solely responsible for the end-to-end development of a real-world project at Activate Education Ltd, independently designing, implementing, and delivering a complete solution. Gaining hands-on experience in React + ASP.Net and applying advanced problem-solving skills in a professional environment.
 
 **I am well-versed in:**
 
 [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](https://dotnet.microsoft.com/en-us/languages/csharp)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
+[![.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/apps/aspnet)
+[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/en)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](https://www.python.org/)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Unity](https://img.shields.io/badge/Unity-%23000000.svg?logo=unity&logoColor=white)](https://unity.com/)
@@ -33,8 +35,6 @@ I am currently solely responsible for the end-to-end development of a real-world
 
 ### 🌱 I’m learning:
 
-[![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)](https://react.dev/)
-[![.NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=fff)](https://dotnet.microsoft.com/en-us/apps/aspnet)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)](https://www.typescriptlang.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white)](https://nextjs.org/)
 
