@@ -5,7 +5,7 @@ At the same time, I've been passionately self-learning many new concepts and too
 
 **Current Project:**
 
-I am currently solely responsible for the end-to-end development of a real-world project at Activate Education Ltd, independently designing, implementing, and delivering a complete solution. Gaining hands-on experience in React + ASP.Net and applying advanced problem-solving skills in a professional environment.
+I am currently solely responsible for the end-to-end development of a real-world project at Enform NZ, independently designing, implementing, and delivering a complete solution. Gaining hands-on experience in React + ASP.Net and applying advanced problem-solving skills in a professional environment.
 
 **I am well-versed in:**
 
@@ -24,9 +24,8 @@ I am currently solely responsible for the end-to-end development of a real-world
 
 **My top AI tools are:**
 
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
 [![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
-[![Deepseek](https://custom-icon-badges.demolab.com/badge/Deepseek-4D6BFF?logo=deepseek&logoColor=fff)](https://chat.deepseek.com/sign_in)
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](https://github.com/copilot)
 
 ### 🔭 Projects I’m working on:
 
