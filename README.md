@@ -25,7 +25,6 @@ I am currently solely responsible for the end-to-end development of a real-world
 **My top AI tools are:**
 
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white)
-[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](https://chatgpt.com/)
 
 ### 🔭 Projects I’m working on:
 
